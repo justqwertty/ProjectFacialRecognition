@@ -18,7 +18,7 @@ Highly reccomend you check out  Murtaza Hassan's FACE RECOGNITION + ATTENDANCE P
 
 and then check out Adam Geitge's Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning
 
-as he takes Inspiration from Articles listed below
+where he talks about how the articles listed below can help us with facial recognition
 
 -Histograms of Oriented Gradients for Human Detection by Navneet Dalal and Bill Triggs
 
