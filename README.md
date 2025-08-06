@@ -20,9 +20,11 @@ and then check out Adam Geitge's Machine Learning is Fun! Part 4: Modern Face Re
 
 as he takes Inspiration from Articles listed below
 
-Histograms of Oriented Gradients for Human Detection by Navneet Dalal and Bill Triggs
-One Millisecond Face Alignment with an Ensemble of Regression Trees by Vahid Kazemi and Josephine Sullivan
-FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko and James Philbin
+-Histograms of Oriented Gradients for Human Detection by Navneet Dalal and Bill Triggs
+
+-One Millisecond Face Alignment with an Ensemble of Regression Trees by Vahid Kazemi and Josephine Sullivan
+
+-FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko and James Philbin
 
 Highly reccomend reading their research to get a better understanding on how all of this works
 
