@@ -2,10 +2,14 @@
 
 # Both of these legends made very easy to understand Explanations to Facial Recognition
 
-in a nutshell its basically these 4 steps \n
+in a nutshell its basically these 4 steps 
+
 step 1 is to find the face
+
 step 2 is to make out each face even if its looking at another direction
+
 step 3 is to pick out unique features of the face like size of eyes and how long the face is
+
 step 4 is to compare the unique features to all the faces you know
 
 and Adam Geitge published a very easy to use Module in python called Face_Recognition
