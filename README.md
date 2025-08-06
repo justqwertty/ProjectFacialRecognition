@@ -12,7 +12,7 @@ step 3 is to pick out unique features of the face like size of eyes and how long
 
 step 4 is to compare the unique features to all the faces you know
 
-and Adam Geitge published a very easy to use Module in python called Face_Recognition
+which is then used by Adam Geitge's Face_Recognition Module in python
 
 Highly reccomend you check out  Murtaza Hassan's FACE RECOGNITION + ATTENDANCE PROJECT | OpenCV Python | Computer Vision Video to get an idea on how to use this 
 
