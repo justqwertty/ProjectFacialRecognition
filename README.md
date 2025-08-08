@@ -30,6 +30,7 @@ Highly reccomend reading their research to get a better understanding on how all
 
 <img width="1623" height="1019" alt="image" src="https://github.com/user-attachments/assets/9f3cca20-8726-44e9-9567-5df09e17c270" />
 
+The Image you are seeing is the webcam footage of me showing a picture of jennifer lawrence and then it identifying her and then looks through if we have any data on her and adds it
 
 <img width="1572" height="995" alt="image" src="https://github.com/user-attachments/assets/ac5dadde-d6bd-4548-9773-a7032da80642" />
 
