@@ -28,3 +28,8 @@ where he talks about how the articles listed below can help us with facial recog
 
 Highly reccomend reading their research to get a better understanding on how all of this works
 
+<img width="1623" height="1019" alt="image" src="https://github.com/user-attachments/assets/5262bcd2-f3de-4c22-adcc-77748678083e" />
+
+<img width="1623" height="1019" alt="image" src="https://github.com/user-attachments/assets/9f3cca20-8726-44e9-9567-5df09e17c270" />
+
+
